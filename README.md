@@ -332,3 +332,14 @@ It is especially relevant for roles involving:
 - content systems
 - creator tools
 - safety-conscious product engineering
+
+## Screenshots
+
+### Workflow Summary
+![Workflow Summary](docs/images/workflow-summary.png)
+
+### Review Queue Menu
+![Review Queue Menu](docs/images/review-queue-menu.png)
+
+### Pytest Passing
+![Pytest Passing](docs/images/pytest-passing.png)
